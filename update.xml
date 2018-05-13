@@ -1,5 +1,5 @@
 <update>
-    <version>1</version>
+    <version>2</version>
     <name>MySchoolBus</name>
     <url>https://raw.githubusercontent.com/vaenow/cordova-plugin-app-update-demo/master/remote_server_apk/android-debug-302048.apk</url>
 </update>
